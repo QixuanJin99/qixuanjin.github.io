@@ -30,7 +30,6 @@ title: ""
 I am a fifth-year PhD student at MIT CSAIL. I am supervised by Professor Marzyeh Ghassemi under the HealthyML Lab. My research generally focuses on security and robustness in Machine Learning and Healthcare, as well as adapting representation learning methods for specific clinical applications. 
 
 ## Publications
-
-- Paper title, venue, year
-- Paper title, venue, year
-- Paper title, venue, year
+**[MaskMedPaint: Masked Medical Image Inpainting with Diffusion Models for Mitigation of Spurious Correlations](https://arxiv.org/abs/2411.10686)**  
+Qixuan Jin, Walter Gerych, Marzyeh Ghassemi  
+*Machine Learning for Health (ML4H), 2024*

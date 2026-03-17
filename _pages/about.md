@@ -5,39 +5,21 @@ layout: single
 author_profile: false
 ---
 
-<!-- <p align="center">
-  <img src="/images/profile_linkedin.jpeg" alt="Qixuan Jin" width="180" style="border-radius: 50%;">
-</p>
+<div style="text-align: center;">
 
-<h1 align="center">Qixuan Jin</h1>
-
-<p align="center">
-  qixuanj@mit.edu<br>
-  jqixuan@gmail.com
-  Department of Electrical Engineering and Computer Science
-  Massachusetts Institute of Technology
-</p> -->
-
-<div style="display: flex; align-items: center; gap: 24px;">
-
-  <!-- Profile Image -->
   <img src="/images/profile_linkedin.jpeg"
        alt="Qixuan Jin"
        width="180"
        style="border-radius: 50%;">
 
-  <!-- Text Block -->
-  <div>
-    <h1 style="margin-bottom: 10px;">Qixuan Jin</h1>
-    <p style="margin: 0;">
-      qixuanj@mit.edu<br>
-      jqixuan@gmail.com
-    </p>
-    <p style="margin-top: 10px;">
-      Department of Electrical Engineering and Computer Science<br>
-      Massachusetts Institute of Technology
-    </p>
-  </div>
+  <h1 style="margin-top: 16px; margin-bottom: 8px;">Qixuan Jin</h1>
+
+  <p style="margin: 0; line-height: 1.6;">
+    <a href="mailto:qixuanj@mit.edu">qixuanj@mit.edu</a><br>
+    <a href="mailto:jqixuan@gmail.com">jqixuan@gmail.com</a><br>
+    Department of Electrical Engineering and Computer Science<br>
+    Massachusetts Institute of Technology
+  </p>
 
 </div>
 

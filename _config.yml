@@ -13,9 +13,9 @@ title                    : "Qixuan Jin"
 title_separator          : "-"
 name                     : "Qixuan Jin"
 description              : "Personal academic website"
-url                      : "https://qixuanjin.github.io"
-baseurl                  : ""
-repository               : "qixuanjin/qixuanjin.github.io"
+url                      : "https://qixuanjin99.github.io"
+baseurl                  : "/qixuanjin.github.io"
+repository               : "qixuanjin99/qixuanjin.github.io"
 
 author:
   avatar           : "profile.png"

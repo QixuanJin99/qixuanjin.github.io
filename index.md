@@ -27,8 +27,7 @@ title: ""
 </div>
 
 ## About
-
-I am a researcher / PhD student at MIT. My research interests include ...
+I am a fifth-year PhD student at MIT CSAIL. I am supervised by Professor Marzyeh Ghassemi under the HealthyML Lab. My research generally focuses on security and robustness in Machine Learning and Healthcare, as well as adapting representation learning methods for specific clinical applications. 
 
 ## Publications
 

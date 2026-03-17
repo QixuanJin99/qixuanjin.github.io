@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <p align="center">
-  <img src="/images/profile.png" alt="Qixuan Jin" width="180" style="border-radius: 50%;">
+  <img src="/images/profile_linkedin.jpeg" alt="Qixuan Jin" width="180" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Qixuan Jin</h1>
